@@ -1,0 +1,127 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    text-decoration: none;
+
+}
+
+#container1{
+ 
+    width: 60%;
+   height: 1160px ;
+
+   border: 1px solid black;
+  margin: auto;
+   display: grid;
+  grid-template-columns: 30% 72.5%;
+  /* grid-template-rows: 200px 200px 200px; */
+   
+
+}
+
+#shree{
+    background-color: darkslategray;
+    height: 1150px;
+}
+
+#imgs{
+    width: 200px;
+    height: 150px;
+     margin-top: 30px;
+    border-radius: 130px;
+    transform: translateX(20px);
+}
+
+.p1{
+   color: white;
+   margin-top: 10px;
+   margin-left: 32px;
+   padding: 10px;
+}
+
+.detail{
+    color: white;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.soft{
+    color: white;
+    margin-left: 32px;
+    margin-top: 20px;
+    padding: 10px;
+
+}
+
+.skills{
+    color: white;
+    margin-left: 40px;
+    margin-top: 8px;
+  
+}
+
+.exp{
+    color: white;
+    margin-left: 32px;
+    margin-top: 10px;
+    padding: 10px;
+ 
+}
+
+.html{
+    color: white;
+    margin-left: 40px;
+    margin-top: 8px;
+}
+
+.lan{
+    color: white;
+    margin-left: 35px;
+    /* transform: translateY(-10px); */
+    padding: 10px;
+
+}
+
+.tam{
+    color: white;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+
+
+.info{
+    font-size: 15px;
+   
+}
+
+.edu{
+    margin-top: 10px;
+    
+}
+
+.don{
+    margin-top: 5px;
+}
+
+div{
+    padding: 10px;
+}
+
+.scl{
+    margin-top: -20px;
+}
+
+button{
+    transform: translateX(830px);
+    padding: 10px;
+    border-radius: 30px;
+    color: white;
+    background-color: crimson;
+    
+}
+
+button:hover{
+    background-color: black;
+}
